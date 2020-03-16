@@ -448,6 +448,7 @@ declare module 'ccxt' {
     export class bitforex extends Exchange {}
     export class bithumb extends Exchange {}
     export class bitkk extends zb {}
+    export class bitkub extends Exchange {}
     export class bitlish extends Exchange {}
     export class bitmart extends Exchange {}
     export class bitmax extends Exchange {}
