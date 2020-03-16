@@ -62,6 +62,7 @@ const exchanges = {
     'bitforex':                require ('./js/bitforex.js'),
     'bithumb':                 require ('./js/bithumb.js'),
     'bitkk':                   require ('./js/bitkk.js'),
+    'bitkub':                  require ('./js/bitkub.js'),
     'bitlish':                 require ('./js/bitlish.js'),
     'bitmart':                 require ('./js/bitmart.js'),
     'bitmax':                  require ('./js/bitmax.js'),

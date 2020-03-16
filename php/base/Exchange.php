@@ -77,6 +77,7 @@ class Exchange {
         'bitforex',
         'bithumb',
         'bitkk',
+        'bitkub',
         'bitlish',
         'bitmart',
         'bitmax',

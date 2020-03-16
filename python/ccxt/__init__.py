@@ -87,6 +87,7 @@ from ccxt.bitflyer import bitflyer                          # noqa: F401
 from ccxt.bitforex import bitforex                          # noqa: F401
 from ccxt.bithumb import bithumb                            # noqa: F401
 from ccxt.bitkk import bitkk                                # noqa: F401
+from ccxt.bitkub import bitkub                              # noqa: F401
 from ccxt.bitlish import bitlish                            # noqa: F401
 from ccxt.bitmart import bitmart                            # noqa: F401
 from ccxt.bitmax import bitmax                              # noqa: F401
@@ -213,6 +214,7 @@ exchanges = [
     'bitforex',
     'bithumb',
     'bitkk',
+    'bitkub',
     'bitlish',
     'bitmart',
     'bitmax',
